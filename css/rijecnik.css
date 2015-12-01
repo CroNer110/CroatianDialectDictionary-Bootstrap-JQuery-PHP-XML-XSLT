@@ -1,0 +1,98 @@
+body {
+    padding-top: 40px;
+    background: url(../img/bg.jpg) no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
+}
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+
+.content {
+    padding: 15px;
+    background-color: #E6E6E6;
+    height: 700px;
+    border-radius: 15px;
+    
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+} 
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: auto;
+    background-color: #333;
+}
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+body > .container {
+    padding: 60px 15px 0;
+}
+.container .text-muted {
+    margin: 20px 0;
+    padding-left:30%;
+    
+}
+
+.footer > .container{
+    padding-right: 15px;
+    padding-left: 15px;
+    
+}
+
+code {
+    font-size: 80%;
+}
+#find{
+    height:15%;
+}
+#table{
+    overflow:auto;
+    height:50%;
+
+}
+#introduction{
+    padding-top:3px;
+    float:bottom;
+    height:25%;
+    width:100%;
+}
+#intro{
+    color:white;
+    background-color:#676767; 
+    border:0;
+    width:100%;  
+    height:100%;
+    resize: none;
+    padding-left:1%;
+}
+#lintro{ 
+    text-align:left; 
+    padding-left: 2%;
+    font-size:100% ;
+    display:block;
+    width: 100%;
+    height:15%;
+    color:#E6E6E6;
+}
+.starter-template{
+    font-size:large;
+}

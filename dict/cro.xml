@@ -1,0 +1,1670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BAZA>
+    <A>
+        <RIJEC nar="kajkavsko">
+            <GL>advokat</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>odvjetnik, pravnik</PRIJEVOD>
+            <OPIS>osoba pravnog zanimanja</OPIS>
+        </RIJEC>
+      
+        <RIJEC nar="kajkavsko">
+            <GL>afinger</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>vješalica</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>ajduk</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>lopov</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+  
+        <RIJEC nar="kajkavsko">
+            <GL>ajnzug</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>odijelo</PRIJEVOD>
+            <OPIS>odijevni predmet</OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>al</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>ili</PRIJEVOD>
+            <OPIS>rastavni veznik</OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>alje</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>odjeća</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>angurija</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>lubenica</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>arija</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>zrak</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>arnaut</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>zao čovjek</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>aš</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>jer</PRIJEVOD>
+            <OPIS>uzročni veznik</OPIS>
+        </RIJEC>
+    </A>
+
+    <B>
+        <RIJEC nar="čakavsko">
+            <GL>bacelat</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>brinuti, imati strpljenja</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>baguj</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>kovčeg</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>bak</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>bik</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>bakandža</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>zimska čizma</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>balun</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>lopta</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>bašća</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>vrt</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>baška</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>posebno</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>bekar</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>mesar</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>bekarija</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>mesnica</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>bela roba</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>posteljina</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>beseda</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>riječ</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>bira</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>piva</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>bižnona</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>prabaka</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>blago</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>stoka</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>bomića</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>bogme,tako je</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>bogin</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>okret, zavoj na cesti</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>brav</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>ovan</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>brnja</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>borovnica</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>broskve</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>kelj</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+  
+        <RIJEC nar="čakavsko">
+            <GL>broštulat kafe</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>pržiti kavu</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>brzleta</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>narukvica</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+  
+        <RIJEC nar="čakavsko">
+            <GL>butega</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>trgovina</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>buzorant</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>homoseksualac</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+    </B>
+
+    <C>
+        <RIJEC nar="čakavsko">
+            <GL>cikulada</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>čokolada</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>ciziba</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>grožđice</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>cukar</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>šećer</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>cukrić</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>bombon</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>cunjat</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>vući se</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+  
+        <RIJEC nar="čakavsko">
+            <GL>cvet</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>brašno</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>cvikat</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>vrištati</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+    </C>
+
+    <Č>
+        <RIJEC nar="čakavsko">
+            <GL>čanža</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>žohar</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>čavorija</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>gatanje</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>čedula</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>potvrda</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>česan</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>češnjak,bijeli luk</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+    </Č>
+
+    <Ć>
+        <RIJEC nar="čakavsko">
+            <GL>ćaro</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>bistro, jasno</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>ćavoran</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>budan</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>ćiverica</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>glava</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>ćućulajkan</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>glupav čovjek</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+    </Ć>
+
+    <D>
+        <RIJEC nar="čakavsko">
+            <GL>daž</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>kiša</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>delikat</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>osijetljivo, fino</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>delemit</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>dinamit</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+ 
+        <RIJEC nar="čakavsko">
+            <GL>dih</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>miris</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>div, divega</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>divlji, divljega</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>dolac, dolceh</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>vrtača, ponikva</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>dota</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>miraz</PRIJEVOD>
+            <OPIS>imovina koju žena unosi u brak kao svoj doprinos obitelji</OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>drago</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>skupo</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>drop</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>trop</PRIJEVOD>
+            <OPIS>ostatak od grožđa kada se iscijedi vino</OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>dura, durati</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>traje, trajati</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+    </D>
+
+    <DŽ>
+
+    </DŽ>
+
+    <Đ>
+        <RIJEC nar="čakavsko">
+            <GL>đikati</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>skakati</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+    </Đ>
+
+    <E>
+        <RIJEC nar="čakavsko">
+            <GL>eroplan</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>avion</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+    </E>
+
+    <F>
+        <RIJEC nar="čakavsko">
+            <GL>fanj</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>mnogo, puno</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>faši</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>povoji</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>fažol</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>grah</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>fažoleti</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>mahune</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>fijok</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>mašna</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>finalmente</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>konačno, naposlijetku</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>finit, finilo</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>završiti, završeno</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>fironga</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>zavjesa</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>fritaja</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>omlet</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>frižak</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>svjež</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>frmenta</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>kukuruz</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>frunćele</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>zulufi</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+    </F>
+
+    <G>
+        <RIJEC nar="čakavsko">
+            <GL>gad</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>daždevnjak</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>gajba</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>kavez</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>gamelica</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>porcija</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>garofulić</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>karanfilčić</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>glodica</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>ostatak nakon kuhanja maslaca</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+  
+        <RIJEC nar="čakavsko">
+            <GL>gre</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>ide</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>grez</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>grub</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>gubice</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>gljivice</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>gušt</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>užitak, slast</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+    </G>
+
+    <H>
+        <RIJEC nar="čakavsko">
+            <GL>h vrančiću</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>k vragu</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+ 
+        <RIJEC nar="čakavsko">
+            <GL>halduni</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>pluća</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>hodi</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>idi</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>homo</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>idemo</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+    </H>
+
+    <I>
+        <RIJEC nar="čakavsko">
+            <GL>ingir</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>pastuh</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>imet lažno</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>imati vremena</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>izgljedan</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>lijep</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+    </I>
+
+    <J>
+        <RIJEC nar="čakavsko">
+            <GL>japno</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>vapno</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>jargan</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>vršnjak</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>jelito</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>krvavica</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>jeno</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>jedno</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>ješmik</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>ječam</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>jetika</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>tuga</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>jimanje</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>posjed</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>jist, jili</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>jesti, jeli</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>judi</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>ljudi</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>juvarina</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>krstitke</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+    </J>
+
+    <K>
+        <RIJEC nar="čakavsko">
+            <GL>kačka</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>zmija</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>kade</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>gdje</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>kanela</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>mahuna vanilije</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>kapuz</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>kupus</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>karatelić</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>drveno vjedro</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>karteni</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>papirnati</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>kaselicu</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>sandučić</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>kašnje</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>kasnije</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>kikaricu</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>šalica, lončić</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+  
+        <RIJEC nar="čakavsko">
+            <GL>kolombar</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>metalni prsten na štednjaku za drva</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>komać</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>jedva</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>koronah</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>pokošena livada</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>kosmat</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>dlakav</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>kotac</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>svinjac</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>kračice</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>koljenica</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>krbun</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>ugljen</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>ku</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>koju</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>kuharica</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>kuhača</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>kumador</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>rajčica</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>kumar</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>krastavac</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>kuntenat</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>zadovoljan</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>kurijož</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>radoznao</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>kus</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>komad</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+    </K>
+
+    <L>
+        <RIJEC nar="čakavsko">
+            <GL>lačan</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>gladan</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>lagje</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>lakše</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>lancun</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>plahta</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>landica</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>kriška</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>latica</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>konzerva</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+  
+        <RIJEC nar="čakavsko">
+            <GL>leha</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>njiva</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+  
+        <RIJEC nar="čakavsko">
+            <GL>lej</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>lijevak</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>lemuncina</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>limun</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>let</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>uliti</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>loboda</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>divlja blitva</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+
+        <RIJEC nar="čakavsko">
+            <GL>lukić</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>gljiva</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+    </L>
+
+    <LJ>
+
+    </LJ>
+
+    <M>
+        <RIJEC nar="čakavsko">
+            <GL>mantel</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>kaput</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>marva</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>goveda</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>medopir</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>leptir</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+    </M>
+
+    <N>
+        <RIJEC nar="čakavsko">
+            <GL>nafalice</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>samo zbog toga</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>nimac</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>gluhonijem</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>nimi lazno</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>nemam vremena</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+    </N>
+
+    <NJ>
+
+    </NJ>
+
+    <O>
+        <RIJEC nar="čakavsko">
+            <GL>obastat</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>opstati</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>obistan</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>bahat</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>ocvirak</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>čvarak</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>odšuba</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>otprve</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>ontar</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>oltar</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+    </O>
+
+    <P>
+        <RIJEC nar="čakavsko">
+            <GL>padela</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>zdjela</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>palj</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>pramen</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>pasat</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>proći</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>perača</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>krpa</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>pijat</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>tanjur</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>plandovat</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>šetati uokolo</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>polak</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>pokraj</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+    </P>
+
+    <R>
+        <RIJEC nar="čakavsko">
+            <GL>rabuš</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>novčanik</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>raćina</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>naušnica</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>rafung</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>dimnjak</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>razjavkat</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>rasplakati</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>rešt</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>zatvor</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+       
+        <RIJEC nar="čakavsko">
+            <GL>rubača</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>košulja</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+    </R>
+
+    <S>
+        <RIJEC nar="čakavsko">
+            <GL>saja</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>čađa</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>sekret</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>WC, toalet</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>strija</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>streha</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>svidar</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>svrdlo</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+    </S>
+
+    <Š>
+        <RIJEC nar="čakavsko">
+            <GL>šar</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>šaren</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>ščakoriti</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>stvrdnuti</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>šenul</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>poludio</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>škur</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>taman</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>škurina</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>mrak</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>šoc</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>ljubavnik</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>štacija</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>stanica</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+    </Š>
+
+    <T>
+        <RIJEC nar="čakavsko">
+            <GL>taban</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>stopalo</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>talar</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>okvir za slike</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>tentat</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>nagovarati</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>tonja</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>ustajali miris</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>torica</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>čičak</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>tratur</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>lijevak</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>trudan</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>umoran</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+    </T>
+
+    <U>
+        <RIJEC nar="čakavsko">
+            <GL>ucat</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>tjeranje ženke svinje</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>ugajat</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>ugađati</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>ušaškat</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>umiriti</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>ušlag</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>oblog</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+    </U>
+
+    <V>
+        <RIJEC nar="čakavsko">
+            <GL>vajke</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>uvijek</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>vakalj</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>otkos</PRIJEVOD>
+            <OPIS>ostatak od košenja</OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>vaktarna</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>stražarnica</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>vanjkuš</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>jastuk</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>viška</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>vještica</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>vode</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>ovdje</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>vrilo</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>izvor</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>vrtal</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>vrt</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+    </V>
+
+    <Z>
+        <RIJEC nar="čakavsko">
+            <GL>zabatalit</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>zapustit</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>zač</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>zašto</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>zamužen</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>zapušten</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>zaslon</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>pregača</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>zbusnast</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>izbirljiv</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>zikva</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>zipka</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+    </Z>
+
+    <Ž>
+        <RIJEC nar="čakavsko">
+            <GL>žaga</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>pila</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>žaladija</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>hladetina</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>žarava</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>žar, žeravica</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>ždrimit</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>žmirit</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>žeja</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>žeđ</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>živad</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>perad</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>žuk</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>gorak</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+        
+        <RIJEC nar="čakavsko">
+            <GL>župa</GL>
+            <IZGOVOR>[ ]</IZGOVOR>
+            <DIJALEKT> </DIJALEKT>
+            <PRIJEVOD>juha</PRIJEVOD>
+            <OPIS> </OPIS>
+        </RIJEC>
+    </Ž>
+
+</BAZA>
